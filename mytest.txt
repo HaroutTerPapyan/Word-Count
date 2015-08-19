@@ -1,0 +1,11 @@
+red	blue	green	yellow
+pink	rose	red	blue	yellow
+fuchsia	brown	fuchsia	red	red
+black	navy	yellow	pink
+tiger	lion	lion
+lion	bear	deer
+deer	elk	moose
+bear	bear	lion	elk
+fish	rose	elk	bear
+deer	blue	tiger	moose
+rose
